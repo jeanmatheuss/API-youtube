@@ -3,7 +3,7 @@
 ## Objetivo
 Este projeto busca analisar os 10 vídeos mais populares do YouTube a cada dia para qualquer região do mundo. Para isso usaremos a API do YouTube que é disponível gratuitamente para  pequenas consultas.    
 
-Através do notebook disponível [aqui]() podemos gerar um arquivo csv que contém as seguintes infos:
+Através do notebook disponível [aqui](https://github.com/jeanmatheuss/API-youtube/blob/main/api-youtube.ipynb) podemos gerar um arquivo csv que contém as seguintes infos:
 
 - video: Nome do vídeo
 - views: Quantidade de vizualizações

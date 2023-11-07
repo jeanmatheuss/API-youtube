@@ -14,6 +14,7 @@ Através do notebook disponível [aqui](https://github.com/jeanmatheuss/API-yout
 - link_video: Link direto para o vídeo
 - horas-publicacao: Quantidade de horas que o vídeo foi publicado
 - views/hora: Quantidade de vizualização por hora
+- categoria: Categoria do vídeo
 
 A ídeia é montar um banco de dados diário para com essas informações e que sejam atualizadas diariamente em um horário determinado. 
 
